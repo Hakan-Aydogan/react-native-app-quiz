@@ -1,0 +1,17 @@
+{
+  "name": "Aks-Sinav",
+  "displayName": "Aks-Sinav",
+  "expo": {
+    "name": "Aks-Sinav",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

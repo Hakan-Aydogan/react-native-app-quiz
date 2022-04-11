@@ -1,0 +1,67 @@
+export default [
+  {
+    _id: '5ecaf8cf2c681b0e8035b8aa',
+    question:
+      'Amasya Genelgesinin, Kurtuluş Savaşımızdaki önemi en çok hangi özelliğinden kaynaklanmaktadır?\n',
+    A: ' Anadolu ve Trakya’nın her yanına duyurulmuş olmasından',
+    B: 'Kurtuluş Savaşının gerekçesi ve yöntemini belirtmesinden',
+    C: 'İşgallerin başlamasını izleyen günlerde hazırlanmış olmasından',
+    D: 'Halkı, düşmana karşı silahlı direnişe çağırmış olmasından',
+    E: 'İstanbul Hükümeti’ne karşı bir hareket niteliği taşımasından',
+    correct: 'B',
+    cat: '4',
+    __v: 0,
+  },
+  {
+    _id: '5ecaf9232c681b0e8035b8ab',
+    question:
+      'I. Yöre halkının ve milis güçlerinin Urfa’yı Fransızlara karşı başarıyla savunması\nII. İstanbul’un resmen işgal edilmesi ve Mebuslar Meclisi’nin dağıtılması\nIII. İstanbul Hükümeti’nin Amasya Protokolleriyle Kuvayi Milliye’yi tanıması\nGelişmelerinden hangilerinin ülkede birlik ve beraberliği güçlendirip Ulusal Kurtuluş Savaşı’na katılımı artırdığı savunulabilir?',
+    A: 'Yalnız l',
+    B: 'Yalnız II',
+    C: 'Yalnız lll',
+    D: 'II ve III',
+    E: ' l, II ve III',
+    correct: 'E',
+    cat: '4',
+    __v: 0,
+  },
+  {
+    _id: '5ecaf95c2c681b0e8035b8ac',
+    question:
+      'Atatürk döneminde aşağıdakilerin hangisinde Balkan Antantı’na üye devletlerin destek ve dayanışma politikalarının, konunun Türkiye lehine çözümlenmesinde etkili olduğu savunulabilir?',
+    A: 'Türkiye’nin Milletler Cemiyetine üye olmasında',
+    B: 'Hatay’ın Türk topraklarına katılmasında',
+    C: 'Yunanistan ile dostluk antlaşması imzalanmasında',
+    D: 'İngiltere ile Ankara Antlaşması’nın imzalanmasında',
+    E: 'Montreux (Montrö) Boğazlar Sözleşmesi’nin imzalanmasında',
+    correct: 'E',
+    cat: '4',
+    __v: 0,
+  },
+  {
+    _id: '5ecaf9992c681b0e8035b8ad',
+    question:
+      'TBMM Hükümeti’nin 1922 de aldığı ekonomik önlemlerden hangisi, ulusal ekonomide yabancı sermaye ve işletmeciliğe karşı bir tutumu yansıtmaktadır?\n',
+    A: 'Geri kalmış sanayi canlandırarak modernleştirmek',
+    B: 'Kamu yararını doğrudan ilgilendiren işletmeleri millileştirmek',
+    C: ' Tarımın gelişmesi için gerekli önlemleri almak',
+    D: ' Ormanları geliştirerek, onlardan gerekli yararı sağlamak',
+    E: 'Devletin gelirleriyle giderleri arasında denge kurmak',
+    correct: 'B',
+    cat: '4',
+    __v: 0,
+  },
+  {
+    _id: '5ecaf9d82c681b0e8035b8ae',
+    question:
+      'Millî Mücadele Dönemi’nde bir İngiliz tarihçinin “Yenilmiş, parçalanmış bir ulusun, bu harabe içinden ayağa kalkması ve dünyanın en büyük ulusları ile tam eşit şartlar içinde karşı karşıya gelmesi ve Büyük Savaş’ın bu galiplerini dize getirerek her istediğini kabul ettirmesi şaşılacak şeydir.” diyerek tanımladığı antlaşma aşağıdakilerden hangisidir?\n',
+    A: 'Gümrü',
+    B: 'Lozan',
+    C: 'Moskova',
+    D: 'Ankara',
+    E: 'Kars',
+    correct: 'B',
+    cat: '4',
+    __v: 0,
+  },
+];
